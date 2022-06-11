@@ -1,0 +1,287 @@
+body{
+    margin: 0px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.container_1{
+    background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../images/banner.jpg);
+    background-position: center center;
+    height: 620px;
+    padding-top: 250px;
+}
+
+.nav_bar{
+    padding-top: 3px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    width: 300px;
+    margin: auto;
+    letter-spacing: 4px;
+}
+
+.nav_text{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    letter-spacing: 4px;
+    line-height: 1.6;
+}
+
+.button_div{
+    text-align: center;
+}
+
+.red_button{
+    color: white;
+    background-color: #EF5E4A;
+    letter-spacing: 3px;
+    font-size: 15px;
+    height: 55px;
+    width: 180px;
+    border-radius: 6px;
+    border: none;
+}
+
+.learn_more{
+    text-align: center;
+    color: white;
+}
+
+.arrowicon{
+    font-size: 40px;
+}
+
+.container_2{
+    background-color: #21B2A6;
+    height: 500px;
+    text-align: center;
+    color: white;
+    padding: 60px; 
+}
+
+.container_2_title{
+    font-size: 26px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    border-bottom: 2px solid #1D9C91;
+    padding-bottom: 30px;
+}
+
+.container_2_text{
+    color: #c7ebe8;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.icon_group{
+    width: 500px;
+    margin: auto;
+}
+
+.icon_holder{
+    border: 2px solid #1D9C91;
+    width: 80px;
+    height: 70px;
+    transform: rotate(45deg);
+    padding-top: 20px;
+    float: left;
+    margin: 40px;
+}
+
+.box_icon{
+    font-size: 50px;
+    color: #00FFCC;
+    transform: rotate(-45deg);
+}
+
+.small_left_div{
+    background-image: url(images/pic01.jpg);
+    height: 400px;
+    background-size: 100% 400px;
+    width: 40%;
+    float: left;
+}
+
+.small_right_div{
+    background-color: #2B343D;
+    color: white;
+    width: 52%;
+    float: left;
+    height: 260px;
+    padding: 70px;
+    letter-spacing: 2px;
+}
+
+.small_left_div2{
+    background-color: #2B343D;
+    color: white;
+    width: 52%;
+    float: left;
+    height: 260px;
+    padding: 70px;
+    letter-spacing: 2px;
+}
+
+.small_right_div2{
+    background-image: url(images/pic02.jpg);
+    height: 400px;
+    background-size: 100% 400px;
+    width: 40%;
+    float: right;
+}
+
+.small_right_div3{
+    background-color: #2B343D;
+    color: white;
+    width: 52%;
+    float: left;
+    height: 260px;
+    padding: 70px;
+    letter-spacing: 2px;
+}
+.small_left_div3{
+    background-image: url(images/pic03.jpg);
+    height: 400px;
+    background-size: 100% 400px;
+    width: 40%;
+    float: left;
+}
+   
+.container6{
+    background-color: #505393;
+}
+
+.container6_head{
+    text-align: center;
+    color: white;
+}
+
+.cont6_head_text{
+    border-top: 2px solid #464981;
+    color: #cbe3fb;
+    padding-top: 15px;
+}
+
+.container6_child{
+    width: 70%;
+    padding-left: 17%;
+}
+
+.card{
+    float: left;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    width: 550px;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    text-align: center;
+    padding-left: 30px;
+    letter-spacing: 2px;
+    margin: auto;
+}
+
+.cardicon{
+    color: #00FFCC;
+    font-size: 120%;
+}
+
+.cardtitle{
+    color: white;
+}
+
+.container7{
+    background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../images/banner.jpg);
+    height: 350px;
+}
+
+.bowhead{
+    padding-top: 30px;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.bowtext{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.button1{
+    background-color: #f75540;
+    color: white;
+    padding: 14px;
+    width: 230px;
+    border: none;
+    border-radius: 4px;
+    margin: 15px;
+}
+
+.button2{
+    background-color: transparent;
+    color: white;
+    padding: 14px;
+    width: 230px;
+    border: 2px solid white;
+    border-radius: 4px;
+    margin: 15px;
+}
+
+.container8{
+    background-color: #1D242A;
+    padding: 50px;
+}
+
+.lasticon{
+    letter-spacing: 10px;
+    color: #6E7073;
+    font-size: 30px;
+}
+
+.lasttext{
+    font-size: 12px;
+    padding-top: 40px;
+    letter-spacing: 3px;
+}
+
+.buttongroup{
+    width: 250px;
+    margin: auto;
+}
+
+
+@media only screen and (max-width: 1000px){
+    .small_left_div{
+        width: 100%;
+    }
+    .small_right_div{
+        width: 83.5%;
+        text-align: center;
+    }
+    .small_right_div2{
+        width: 100%;
+    }
+    .small_left_div2{
+        width: 83.5%;
+        text-align: center;
+    }
+    .small_left_div3{
+        width: 100%;
+    }
+    .small_right_div3{
+        width: 83.5%;
+        text-align: center;
+    }
+    .container6_child{
+        float: none;
+    }
+    .card{
+        float: none;
+    }
+    .container7{
+        background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../images/banner.jpg);
+    }
+}
